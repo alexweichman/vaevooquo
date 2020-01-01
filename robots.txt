@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oocheinibo.0a.io/sitemap.xml
